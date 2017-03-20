@@ -10,5 +10,3 @@ ToastMessage.prototype.sendToast = function(){
 	alert('You can perform some custom action after a toast goes away');
 
 };
-
-//test key
